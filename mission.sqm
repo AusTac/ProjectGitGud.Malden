@@ -1,0 +1,25 @@
+version=53;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class Camera
+	{
+		pos[]={9418.541,24.455555,4444.0869};
+		dir[]={-0.68510872,-0.17364819,0.70744073};
+		up[]={-0.12080315,0.98480767,0.12474089};
+		aside[]={0.71835411,-7.4505806e-009,0.69567758};
+	};
+};
+binarizationWanted=0;
+class AddonsMetaData
+{
+};
+randomSeed=14195821;
+class ScenarioData
+{
+	author="VeryInnacurateAimbot";
+};
